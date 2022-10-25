@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 
+
+I am a professional and passionate architect and engineer with in-depth expertise across DevOps, cloud and infrastructures. 
+
+
+Experience 🎓
+- Docker & DevOps since 2017
+- Raspberry PI since 2013
+- Java since 2011
+- Continuous pro**kress**ion since since I was born!
 
 <!--
 **proKress/proKress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
