@@ -9,6 +9,8 @@ Experience 🎓
 - Java since 2011
 - Continuous pro**kress**ion since I was born!
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/652136a96d6d83ae0ab1b902?variant=dark)](https://roadmap.sh)
+
 <!--
 **proKress/proKress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
