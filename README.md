@@ -11,6 +11,8 @@ Experience 🎓
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/652136a96d6d83ae0ab1b902?variant=dark)](https://roadmap.sh)
 
+<a href="https://app.daily.dev/prokress"><img src="https://api.daily.dev/devcards/14c072d20e3947088c16ac8c696e1d7f.png?r=fp2" width="400" alt="Dev Card of proKress"/></a>
+
 <!--
 **proKress/proKress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
